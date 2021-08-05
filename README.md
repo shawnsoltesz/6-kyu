@@ -1,6 +1,6 @@
 # \_6_kyu
 
-Kata -
+Kata - https://www.codewars.com/kata/53d6387b83db278202000802/train/csharp
 
 You have an array of numbers 1 through n (where 1 <= n <= 10). The array needs to be formatted correctly for the person reading the countdown of a spaceship launch.
 
